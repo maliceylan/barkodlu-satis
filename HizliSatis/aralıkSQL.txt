@@ -1,0 +1,6 @@
+SELECT *
+FROM (
+     SELECT *, ROW_NUMBER() OVER (ORDER BY StokID) AS RowNum
+     FROM Hizlisatis.dbo.[Stok]
+     ) AS MyDerivedTable
+WHERE MyDerivedTable.RowNum BETWEEN 3 AND 4

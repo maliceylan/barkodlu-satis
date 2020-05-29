@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HizliSatis.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sirketAdi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Şirket İsmi</Value>
+    </Setting>
+    <Setting Name="adres1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Adres Satırı 1</Value>
+    </Setting>
+    <Setting Name="adres2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Adres Satırı 2 </Value>
+    </Setting>
+    <Setting Name="adres3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Adres Satırı 3 </Value>
+    </Setting>
+    <Setting Name="telefon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0354 354 54 54</Value>
+    </Setting>
+    <Setting Name="vergiDairesi" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="vergiNo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="kritikMesajUyari" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="stokYetersizUyari" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="kritikRenkUyari" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="urunBulunamadiUyari" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="grup1Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Grup 1</Value>
+    </Setting>
+    <Setting Name="grup2Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Grup 2</Value>
+    </Setting>
+    <Setting Name="grup3Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Grup 3</Value>
+    </Setting>
+    <Setting Name="grup4Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Grup 4</Value>
+    </Setting>
+    <Setting Name="grup5Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Grup 5</Value>
+    </Setting>
+    <Setting Name="grup6Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Grup 6</Value>
+    </Setting>
+    <Setting Name="kilitStok" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="kilitMusteriler" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="kilitCari" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="kilitKasa" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="kilitRapor" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="kilitAyarlar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="urunKisayolManuel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="yonetimSifresi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0000</Value>
+    </Setting>
+    <Setting Name="guvenlikSorusu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">En sevdiğin yemek?</Value>
+    </Setting>
+    <Setting Name="guvenlikCevabi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">iskender</Value>
+    </Setting>
+    <Setting Name="hddSerial" Type="System.String" Scope="User">
+      <Value Profile="(Default)">J20637J005977</Value>
+    </Setting>
+    <Setting Name="teraziCOM" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="teraziAktarimMod" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="teraziStokKodu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">T</Value>
+    </Setting>
+    <Setting Name="teraziMinDeger" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ekranCOM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+    <Setting Name="ekranBaud" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2400</Value>
+    </Setting>
+    <Setting Name="yaziciBoyut" Type="System.String" Scope="User">
+      <Value Profile="(Default)">58</Value>
+    </Setting>
+    <Setting Name="yaziciAdi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">POS58-1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
